@@ -1,13 +1,13 @@
 # Site settings
-title: Alex Blog
-SEOTitle: 刘天骄的博客 | Alex Blog
+title: Keya News
+SEOTitle: Keya News
 header-img: img/post-bg-desk.jpg
-email: liutianjiao07@gmail.com
+email: tianjiaol@keyayun.com
 description: "We're here to put a dent in the universe. Otherwise why else even be here?"
-keyword: "刘天骄，Alex，刘天骄的博客，Alex Blog,"
-url: "http://liutianjiao1023.github.io"          # your host, for absolute URL
+keyword: "Keya,News,Keya News,"
+url: "http://keyanews.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/liutianjiao1023/liutianjiao1023.github.io.git" # you code repository
+github_repo: "https://github.com/keyanews/keyanews.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/photo1.jpeg      # use absolute URL, seeing it's used in bo
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     liu-tian-jiao-72
-github_username:    liutianjiao1023
-facebook_username:  liutianjiao77
-jianshu_username:   7b55a5a2d381
-#twitter_username:   qiubaiying
+# weibo_username:     
+zhihu_username:     
+github_username:    
+facebook_username:  
+jianshu_username:   
+#twitter_username:   
 
 
 
@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: 
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 2e6c0ed7cc70231ae68c                            #生成的clientID
   clientSecret: d3417b248e970da9832122211d248dc4214bd371    #生成的clientSecret
-  repo: liutianjiao1023.github.io    #仓库名称
-  owner: liutianjiao1023    #github用户名
-  admin: liutianjiao1023
+  repo: keyanews.github.io    #仓库名称
+  owner: keyanews    #github用户名
+  admin: keyanews
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,8 +78,8 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-131153941-1'            # Format: UA-xxxxxx-xx
-ga_domain: www.iamtianjiao.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-ga_domain: www.yeonju.kim
+ga_domain:  auto             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto
 
 
 
